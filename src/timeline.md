@@ -1,6 +1,6 @@
 # Timeline Summary of the Rust for CPython Project
 
-The Rust for CPython project ramped up its coordination with the Rust team and focused heavily on foundational technical and community-building efforts from early 2026 into late 2025\.
+The Rust for CPython project ramped up its coordination with the Rust team and focused heavily on foundational technical and community-building efforts from late 2025.
 
 ### April 2026: Project Finalizing for Public Presentation
 
