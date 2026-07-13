@@ -1,5 +1,6 @@
 
 - [Introduction](./introduction.md)
+- [Building](./building.md)
 
 # Project Information
 
