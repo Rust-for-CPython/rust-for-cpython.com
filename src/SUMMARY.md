@@ -4,6 +4,7 @@
 
 # Project Information
 
+  - [Resources](./resources.md)
   - [Contact](./contact.md)
   - [Contributing](./contributing.md)
 
